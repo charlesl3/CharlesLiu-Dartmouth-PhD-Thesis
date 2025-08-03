@@ -46,14 +46,14 @@ its implications for unsupervised learning and neural computation.
 
 Below is a breakdown of each `.m` file and folder in the repository and their role:
 
-1. **`ap_finding.m`**  
-   *Function:* simulations to find an acute partition
+1. [LIC](./LIC)  
+   *Folder:* code related to chapter 3, LI-C
 
-2. **`Iris_Syn_visual.m`**  
-   *Function:* visualizations of Iris and synthetic datasets
+2. [LIHC](./LIHC) 
+   *Folder:* code related to chapter 4, LI-HC
 
-3. **`AIME_Iris.m`**  
-   *Function:* AIME results with Iris data 
+3. [LIPCA](./LIPCA) 
+   *Folder:* code related to chapter 6, LI-PCA
 
 4. **`AIME_Syn.m`**  
    *Function:* AIME results with synthetic data
