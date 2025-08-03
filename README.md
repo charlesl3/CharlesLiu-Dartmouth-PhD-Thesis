@@ -53,7 +53,7 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
    *Folder:* code related to chapter 4, LI-HC
 
 3. [LIPCA](./LIPCA) 
-   *Folder:* code related to chapter 6, LI-PCA
+   *Folder:* code related to chapter 5, LI-PCA
 
 
 4. **`ConnectHypergeometric.m`**  
