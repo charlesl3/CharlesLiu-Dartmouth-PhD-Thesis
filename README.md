@@ -26,3 +26,17 @@ Together, these models uncover a surprising computational unification: clusterin
 PCA, often viewed as distinct, emerge from the same circuit under different inhibitory
 regimes. We explore this relationship both conceptually and mathematically, highlighting
 its implications for unsupervised learning and neural computation.
+
+
+## Author-Advisor
+
+1. **Charles(Chang) Liu**  
+   - **Title:** PhD candidate  
+   - **Affiliation:** Thayer School of Engineering, Dartmouth College 
+   - **Contact:** charles.liu.th@dartmouth.edu
+
+
+2. **Richard H. Granger, Jr.**  
+   - **Title:** Professor
+   - **Affiliation:** Department of Psychological and Brain Sciences, Dartmouth College
+   - **Contact:** Richard.Granger@dartmouth.edu 
