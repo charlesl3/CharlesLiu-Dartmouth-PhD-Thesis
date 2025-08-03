@@ -5,22 +5,16 @@
    *Scripts:* LI-HC with synthetic data using cross-validation  
 
 3. **`LIHC_MNIST_merge.mlx`**  
-   *Scripts:* LI-HC on MNIST with merged component/label clusters  
+   *Scripts:* LI-HC on MNIST with Merge() function applied  
 
 4. **`LIHC_MNIST_noMerge.mlx`**  
-   *Scripts:* LI-HC on MNIST without merging label clusters  
+   *Scripts:* LI-HC on MNIST without Merge() function
 
 5. **`DHC_nodrop_syn.mlx`**  
    *Scripts:* Plain DHC with synthetic data without cross-validation  
 
-6. **`combine_den_mnist_DHC.mlx`**  
-   *Scripts:* Combines Den_data and MNIST results for DHC analysis  
+6. **`mnist_DHC_merge.mlx`**  
+   *Scripts:* DHC on MNIST with Merge() function applied
 
-7. **`combine_den_mnist_LIHC.mlx`**  
-   *Scripts:* Combines Den_data and MNIST results for LI-HC analysis  
-
-8. **`mnist_DHC_merge.mlx`**  
-   *Scripts:* DHC on MNIST with merged component/label clusters  
-
-9. **`Den_data.mlx`**  
-   *Scripts:* Density-based data preparation or generation module  
+7. **`Den_data.mlx`**  
+   *Scripts:* Original dendrograms of synthetic data and MNIST data
