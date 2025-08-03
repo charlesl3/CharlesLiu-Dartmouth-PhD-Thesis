@@ -55,44 +55,29 @@ Below is a breakdown of each `.m` file and folder in the repository and their ro
 3. [LIPCA](./LIPCA) 
    *Folder:* code related to chapter 6, LI-PCA
 
-4. **`AIME_Syn.m`**  
-   *Function:* AIME results with synthetic data
 
-5. **`LIHC_Synthetic.m`**  
-   *Function:* LI-HC results with the synthetic data
-
-6. [Sample Execution](./Sample%20Execution)  
-*Function:* a folder containing the executed results of the code listed above. Different file types under the same name indicate the same set of code
-
-7. **`ConnectHypergeometric.m`**  
+4. **`ConnectHypergeometric.m`**  
    *Function:* generating function for neural weight vectors that follow the hypergeometric distribution
 
-8. **`arrow.m`**  
+5. **`arrow.m`**  
    *Function:* draw arrows in MATLAB plots
 
-9. **`nmi.m`**, **`purity.m`**, **`randindex.m`**  
+6. **`nmi.m`**, **`purity.m`**, **`randindex.m`**  
    *Function:* external metrics of clustering
 
-10. **`ClusterEvalCalinskiHarabasz.m`**, **`ClusterEvalDaviesBouldin.m`**, **`ClusterEvalSilhouette.m`**  
+7. **`ClusterEvalCalinskiHarabasz.m`**, **`ClusterEvalDaviesBouldin.m`**, **`ClusterEvalSilhouette.m`**  
    *Function:* internal metrics of clustering
 
-11. **`subcluster_centroid.m`**, **`subcluster_simulate.m`**  
+8. **`subcluster_centroid.m`**, **`subcluster_simulate.m`**  
    *Function:* cluster generating functions to implement LI-HC
 
-12. **`SOM.m`**  
+9. **`SOM.m`**  
    *Function:* an alternative clustering function other than K-means for identifying AIME components from the learned weight vectors
 
-12. **`SetRNG.m`**  
+10. **`SetRNG.m`**  
    *Function:* random seeds settings
 
-13. **`LIHC_MNIST.m`**  
-   *Function:* LI-HC results with the MNIST data, including traditional Divisive Hierarchical Clustering results with the MNIST data (single-cycled) 
 
-13. **`DHC_Synthetic.m`**  
-   *Function:* Traditional Divisive Hierarchical Clustering results with the Synthetic data
-
-14. **`AIME_MNIST.m`**  
-   *Function:* AIME results with MNIST data (single-cycled)
 
 ## License
 
